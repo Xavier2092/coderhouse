@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "xavier",
+    "apellido": "carrillo",
+    "edad": "29",
+    "email": "2092.rxcm@gmail.com"
+  }
+}
