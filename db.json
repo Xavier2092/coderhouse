@@ -10,5 +10,11 @@
     "apellido": "carrillo",
     "edad": "29",
     "email": "2092.rxcm@gmail.com"
-  }
+  },
+  "clase08": {
+   "nombre":"",
+   "edad":"",
+   "estatura":"",
+   "peso":"",
+   "IMC":""
 }
