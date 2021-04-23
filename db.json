@@ -3,15 +3,9 @@
     {
       "id": 1,
       "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "prueba"
     }
   ],
   "profile": {
-    "name": "xavier",
-    "apellido": "carrillo",
-    "edad": "29",
-    "email": "2092.rxcm@gmail.com"
+    "name": "typicode"
   }
+}
